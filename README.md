@@ -52,10 +52,10 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
-
 > [Twitter](https://twitter.com/HemantkEtc116)
 
 > [LinkedIn](https://www.linkedin.com/in/hemant-kumbhalkar-87393b235/)
+
+> [Sololearn](https://www.sololearn.com/profile/24572821)
 
 I hope you like the project. Thanks for reading :)
